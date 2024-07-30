@@ -1,4 +1,5 @@
 .DS_Store
 node_modules
+node-sass
 package-lock.json
 yarn.lock
